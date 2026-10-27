@@ -1,4 +1,4 @@
 :HL["/math-quest/_next/static/chunks/277f4eb51e283216.css","style"]
-:HL["/math-quest/_next/static/chunks/2b5df2a613c6ff29.css","style"]
+:HL["/math-quest/_next/static/chunks/c52e856f7392e5b1.css","style"]
 :HL["/math-quest/_next/static/chunks/9a50fc61aed0cc5a.css","style"]
-0:{"buildId":"9bhbTtph9Cw6ONEpjr52e","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"csd06_WWXyu4u-qEctGlc","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
